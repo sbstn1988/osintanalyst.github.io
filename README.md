@@ -1,4 +1,4 @@
-## OSINT Analyst for Hire &#9000;
+## OSINT (Open Source Intelligence) Analyst for Hire &#9000;
 <ul>
   <li><span style="color: #FF00FF;">Tier 1</span> | <span style="color: #00FFFF;">One-Time Service</span> | <span style="color: #FFFF00;">Point-in-Time Exposure Audit or Baseline Digital Footprint Assessment</span>:</li>
   <ul>
